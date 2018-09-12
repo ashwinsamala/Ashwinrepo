@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is C4C3-06DC
+
+ Directory of C:\Users\ashwi\OneDrive\Desktop\New folder
+
+09/12/2018  05:23 AM    <DIR>          .
+09/12/2018  05:23 AM    <DIR>          ..
+09/07/2018  06:51 AM                11 empty.txt
+09/07/2018  06:50 AM               408 test.txt
+09/12/2018  05:18 AM               454 test2
+09/12/2018  05:23 AM                62 test3.txt
+               4 File(s)            935 bytes
+               2 Dir(s)  421,781,725,184 bytes free
